@@ -1,5 +1,7 @@
 # awesome-npm-package
 
+My favorite npm packages
+
 - [array-shuffle](https://www.npmjs.com/package/array-shuffle)
 - [c12](https://www.npmjs.com/package/c12)
 - [classnames](https://www.npmjs.com/package/classnames)
