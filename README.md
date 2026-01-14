@@ -45,4 +45,5 @@ My favorite npm packages
 - [type-guards](https://www.npmjs.com/package/type-guards)
 - [utility-types](https://www.npmjs.com/package/utility-types)
 - [uuid](https://www.npmjs.com/package/uuid)
+- [@tsconfig/bases](https://www.npmjs.com/package/@tsconfig/bases)
   
