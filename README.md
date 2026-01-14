@@ -1,4 +1,4 @@
-# awesome-npm-package
+# awesome-npm-packages
 
 My favorite npm packages
 
