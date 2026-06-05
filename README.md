@@ -10,6 +10,7 @@ My favorite npm packages
 - [cosmiconfig](https://www.npmjs.com/package/cosmiconfig)
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
 - [csv-parse](https://www.npmjs.com/package/csv-parse)
+- [darkreader](https://www.npmjs.com/package/darkreader)
 - [date-fns](https://www.npmjs.com/package/date-fns)
 - [dexie](https://www.npmjs.com/package/dexie)
 - [dotenv](https://www.npmjs.com/package/dotenv)
