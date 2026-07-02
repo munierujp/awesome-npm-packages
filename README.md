@@ -27,6 +27,7 @@ My favorite npm packages
 - [lodash](https://www.npmjs.com/package/lodash)
 - [log4js](https://www.npmjs.com/package/log4js)
 - [ltsv](https://www.npmjs.com/package/ltsv)
+- [lz-string](https://www.npmjs.com/package/lz-string)
 - [mustache](https://www.npmjs.com/package/mustache)
 - [nock](https://www.npmjs.com/package/nock)
 - [node-cache](https://www.npmjs.com/package/node-cache)
